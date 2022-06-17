@@ -1,0 +1,288 @@
+﻿[
+  {
+    "n": {
+"identity": 0,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "反应性精神病",
+"id": "9",
+"key": "明显,情绪障碍,荒诞,离奇,举止行为"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 1,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "器质性精神病与功能性精神病",
+"id": "10",
+"key": "意识模糊,遗忘,痴呆"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 2,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "情感障碍",
+"id": "11",
+"key": "躁狂,双相,抑郁,持续性心境"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 3,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "恐怖症（恐怖性焦虑障碍)",
+"id": "12",
+"key": "过分,不合理,惧怕,外界,客体,处境"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 4,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "焦虑症",
+"id": "13",
+"key": "预感,产生,难于应付,情绪"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 5,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "强迫性障碍",
+"id": "14",
+"key": "不能,主观意志,克制,反复出现"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 6,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "躯体形式障碍",
+"id": "15",
+"key": "反复,陈述,检查,无视,结果"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 7,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "神经衰弱",
+"id": "16",
+"key": "衰弱,兴奋,情绪,紧张性,疼痛,睡眠"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 8,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "反应性精神障碍",
+"id": "17",
+"key": "异常,心理,社会,环境反应"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 9,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": " 癔症",
+"id": "18",
+"key": "丧失,自我,身份,识别,过去,记忆"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 10,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "人格障碍",
+"id": "19",
+"key": "人格特征,明显,偏离,正常"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 11,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "进食障碍",
+"id": "20",
+"key": "进食"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 12,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "睡眠障碍",
+"id": "21",
+"key": "睡眠"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 13,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "性功能障碍",
+"id": "22",
+"key": "性"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 47,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "精神病性障碍",
+"id": "1",
+"key": " "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 48,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "心境障碍",
+"id": "2",
+"key": " "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 49,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "神经症性障碍",
+"id": "3",
+"key": " "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 50,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "反应性精神障碍及癔症",
+"id": "4",
+"key": " "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 51,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "人格障碍",
+"id": "5",
+"key": " "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 52,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "心理生理障碍",
+"id": "6",
+"key": " "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 53,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "精神分裂症",
+"id": "7",
+"key": "现实环境,脱离,沉醉,病态体验"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 54,
+"labels": [
+        "heart"
+      ],
+"properties": {
+"name": "偏执性精神病",
+"id": "8",
+"key": "妄想,中心,精神病"
+      }
+    }
+  }
+]
